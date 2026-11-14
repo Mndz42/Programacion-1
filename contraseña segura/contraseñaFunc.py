@@ -1,3 +1,4 @@
+#Funciones para verificar la contraseña
 def tiene_minuscula(contraseña):
     for c in contraseña:
         if c in 'abcdefghijklmnopqrstuvwxyz':

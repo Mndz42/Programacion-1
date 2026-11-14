@@ -1,3 +1,4 @@
+#Funciones para calcular el dia de la semana
 def nombre_mes(m):
   if m== 1:
     return "Enero"
