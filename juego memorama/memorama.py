@@ -1,5 +1,5 @@
 import numpy as np
-
+#Genera la bajara de cartas
 numParejas = 6
 baraja = np.repeat(np.arange(1, numParejas + 1), 2)
 np.random.shuffle(baraja)
